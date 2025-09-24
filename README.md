@@ -11,7 +11,7 @@ This repository showcases my work on building a **real-time data pipeline** usin
 - **Coordination Service:** Zookeeper  
 - **Distributed Computation:** Apache Spark  
 - **Data Storage:** Apache Cassandra  
-- **Visualization:** Node.js  
+- **Visualization:** D3.js  
 
 ---
 
